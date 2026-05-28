@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+ <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
  <h1 align="center">Hi 👋, I'm Pathum Madhushan
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=19&duration=3500&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=300&height=40&lines=Welcome+to+Pathum's+GitHub" alt="Welcome!" width="300"/>
@@ -8,27 +8,25 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pathum-madhushan&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-madhushan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-madhushan" alt="pathum-madhushan" /></a> </p>
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+
+<table align="center" border="0" width="100%">
+<tr>
+<td width="50%" align="left" valign="middle" style="border: none; padding: 10px;">
 
 - 🌱 I’m currently learning **python, java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pathum-madhushan](https://github.com/pathum-madhushan)
 
 - 📫 How to reach me **madhushanrajapaksha1127@gmail.com**
-- </td>
-<td width="50%" align="center">
 
- 
+</td>
+<td width="50%" align="center" valign="middle" style="border: none; padding: 10px;">
 
- 
+<img src="https://raw.githubusercontent.com/pathum-madhushan/pathum-madhushan/main/animation_gif.gif" alt="pathum-madhushan-coding" width="290" />
 
-  
-  </td>
+</td>
 </tr>
 </table>
-
 
 ---
 
