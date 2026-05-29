@@ -1,7 +1,7 @@
  <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
  <h1 align="center">Hi 👋, I'm Pathum Madhushan
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=19&duration=3500&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=300&height=40&lines=Welcome+to+Pathum's+GitHub" alt="Welcome!" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=19&duration=3500&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=300&height=40&lines=Welcome+To+My+GitHub+Page" alt="Welcome!" width="300"/>
 </div>
 <h3 align="center">A passionate Cyber Security & Ethical Hacking Enthusiast from Sri Lanka</h3>
 
